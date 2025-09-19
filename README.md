@@ -25,6 +25,22 @@ Kullanıcıların makale yazmasına, kategorileri listelemesine ve rol bazlı ye
 
 ## Ekran Görüntüleri
 
+### Giriş
+![Giriş](giris.png)
+
+### Anasayfa
+![Anasayfa](anasayfa.png)
+
+### Kategoriler
+![Kategoriler](kategoriler.png)
+
+### Arama
+![Arama](arama.png)
+
+### Keşfet
+![Keşfet](kesfet.png)
+
+
 
 ---
 
